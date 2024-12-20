@@ -2,6 +2,7 @@ import 'dart:ui';
 import 'package:flutter/material.dart';
 
 enum ActionType { add, move ,property }
+// ignore: constant_identifier_names
 enum FontName{Mali,Montserrat,Roboto}
 class ModalText {
   final int id;
